@@ -38,11 +38,4 @@ Turtles
        t.right(90)
 
 
-SECTION 2: A Second Section
-:::::::::::::::::::::::::::
-
-.. activecode:: example1
-
-   print 'This is the second section'
-
 That is all
