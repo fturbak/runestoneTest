@@ -45,4 +45,7 @@ SECTION 2: A Second Section
 
    print 'This is the second section'
 
+SECTION 3: A Third Section
+::::::::::::::::::::::::::
+
 That is all
